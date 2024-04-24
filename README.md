@@ -1,7 +1,7 @@
 # CS598DLH-FinalProject
 Hannah Benig & Shu Kit Tse
 
-YouTube Demo Link: 
+YouTube Demo Link: https://youtu.be/MY7ix8A4EbM
 
 # Setup and Run Code
 1. Clone this repository
